@@ -19,6 +19,20 @@ Built to mirror Apple’s authentic design language, official product lineups (i
 
 ---
 
+## 📸 Visual Showcase
+
+| 🏠 Homepage (`/`) | 📱 iPhone Lineup (`/iphone`) |
+| :---: | :---: |
+| <img src="docs/screenshots/01-homepage.png" alt="Apple Homepage" width="100%" /> | <img src="docs/screenshots/02-iphone.png" alt="iPhone Lineup" width="100%" /> |
+| **💻 Mac Family (`/mac`)** | **📋 iPad Lineup (`/ipad`)** |
+| <img src="docs/screenshots/03-mac.png" alt="Mac Lineup" width="100%" /> | <img src="docs/screenshots/04-ipad.png" alt="iPad Family" width="100%" /> |
+| **⌚ Apple Watch (`/watch`)** | **🎧 AirPods Lineup (`/airpods`)** |
+| <img src="docs/screenshots/05-watch.png" alt="Apple Watch Series & Ultra" width="100%" /> | <img src="docs/screenshots/06-airpods.png" alt="AirPods Lineup" width="100%" /> |
+| **📺 TV & Home (`/tv-home`)** | **🛍️ Apple Store Online (`/store`)** |
+| <img src="docs/screenshots/07-tv-home.png" alt="Apple TV & HomePod" width="100%" /> | <img src="docs/screenshots/08-store.png" alt="Apple Store" width="100%" /> |
+
+---
+
 ## 🗂️ Project Structure
 
 ```text
