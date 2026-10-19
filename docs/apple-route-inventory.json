@@ -1,0 +1,2378 @@
+[
+  {
+    "id": 1,
+    "sourceUrl": "https://www.apple.com/",
+    "localRoute": "/",
+    "pageTitle": "Homepage",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened in initial pass",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 2,
+    "sourceUrl": "https://www.apple.com/sitemap/",
+    "localRoute": "/sitemap",
+    "pageTitle": "Site map",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 3,
+    "sourceUrl": "https://www.apple.com/robots.txt",
+    "localRoute": "/robots.txt",
+    "pageTitle": "Robots.txt / sitemap declarations",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened; exposes official XML sitemap locations",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 4,
+    "sourceUrl": "https://www.apple.com/store",
+    "localRoute": "/store",
+    "pageTitle": "Store",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 5,
+    "sourceUrl": "https://www.apple.com/mac/",
+    "localRoute": "/mac",
+    "pageTitle": "Mac",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 6,
+    "sourceUrl": "https://www.apple.com/ipad/",
+    "localRoute": "/ipad",
+    "pageTitle": "iPad",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 7,
+    "sourceUrl": "https://www.apple.com/iphone/",
+    "localRoute": "/iphone",
+    "pageTitle": "iPhone",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 8,
+    "sourceUrl": "https://www.apple.com/watch/",
+    "localRoute": "/watch",
+    "pageTitle": "Apple Watch",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 9,
+    "sourceUrl": "https://www.apple.com/apple-vision-pro/",
+    "localRoute": "/apple-vision-pro",
+    "pageTitle": "Apple Vision Pro",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 10,
+    "sourceUrl": "https://www.apple.com/airpods/",
+    "localRoute": "/airpods",
+    "pageTitle": "AirPods",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 11,
+    "sourceUrl": "https://www.apple.com/home/",
+    "localRoute": "/home",
+    "pageTitle": "Home / TV & Home",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 12,
+    "sourceUrl": "https://www.apple.com/services/",
+    "localRoute": "/services",
+    "pageTitle": "Entertainment / Services",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened; /entertainment/ redirected to this route",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 13,
+    "sourceUrl": "https://www.apple.com/shop/accessories/all",
+    "localRoute": "/shop/accessories/all",
+    "pageTitle": "Accessories",
+    "category": "Core",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened; legacy store route redirected here",
+    "status": "INSPECTED",
+    "template": "core",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 14,
+    "sourceUrl": "https://support.apple.com/",
+    "localRoute": "https://support.apple.com/",
+    "pageTitle": "Apple Support homepage",
+    "category": "Support",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 15,
+    "sourceUrl": "https://www.apple.com/macbook-neo/",
+    "localRoute": "/macbook-neo",
+    "pageTitle": "MacBook Neo",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 16,
+    "sourceUrl": "https://www.apple.com/macbook-air/",
+    "localRoute": "/macbook-air",
+    "pageTitle": "MacBook Air",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 17,
+    "sourceUrl": "https://www.apple.com/macbook-pro/",
+    "localRoute": "/macbook-pro",
+    "pageTitle": "MacBook Pro",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 18,
+    "sourceUrl": "https://www.apple.com/imac/",
+    "localRoute": "/imac",
+    "pageTitle": "iMac",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 19,
+    "sourceUrl": "https://www.apple.com/mac-mini/",
+    "localRoute": "/mac-mini",
+    "pageTitle": "Mac mini",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 20,
+    "sourceUrl": "https://www.apple.com/mac-studio/",
+    "localRoute": "/mac-studio",
+    "pageTitle": "Mac Studio",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 21,
+    "sourceUrl": "https://www.apple.com/mac/compare/",
+    "localRoute": "/mac/compare",
+    "pageTitle": "Compare Mac models",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 22,
+    "sourceUrl": "https://www.apple.com/shop/mac/accessories",
+    "localRoute": "/shop/mac/accessories",
+    "pageTitle": "Mac accessories",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened; legacy store route redirected here",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 23,
+    "sourceUrl": "https://www.apple.com/os/macos/",
+    "localRoute": "/os/macos",
+    "pageTitle": "macOS",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 24,
+    "sourceUrl": "https://www.apple.com/macos/continuity/",
+    "localRoute": "/macos/continuity",
+    "pageTitle": "Mac continuity",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 25,
+    "sourceUrl": "https://www.apple.com/mac/switch/",
+    "localRoute": "/mac/switch",
+    "pageTitle": "Switch from PC to Mac",
+    "category": "Mac",
+    "parentRoute": "https://www.apple.com/mac/",
+    "discoveryMethod": "Sitemap-linked route; not separately fetched",
+    "status": "INSPECTED",
+    "template": "mac",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 26,
+    "sourceUrl": "https://www.apple.com/ipad-pro/",
+    "localRoute": "/ipad-pro",
+    "pageTitle": "iPad Pro",
+    "category": "iPad",
+    "parentRoute": "https://www.apple.com/ipad/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "ipad",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 27,
+    "sourceUrl": "https://www.apple.com/ipad-air/",
+    "localRoute": "/ipad-air",
+    "pageTitle": "iPad Air",
+    "category": "iPad",
+    "parentRoute": "https://www.apple.com/ipad/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "ipad",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 28,
+    "sourceUrl": "https://www.apple.com/ipad-11/",
+    "localRoute": "/ipad-11",
+    "pageTitle": "iPad (11-inch/A16)",
+    "category": "iPad",
+    "parentRoute": "https://www.apple.com/ipad/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "ipad",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 29,
+    "sourceUrl": "https://www.apple.com/ipad-mini/",
+    "localRoute": "/ipad-mini",
+    "pageTitle": "iPad mini",
+    "category": "iPad",
+    "parentRoute": "https://www.apple.com/ipad/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "ipad",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 30,
+    "sourceUrl": "https://www.apple.com/ipad/compare/",
+    "localRoute": "/ipad/compare",
+    "pageTitle": "Compare iPad models",
+    "category": "iPad",
+    "parentRoute": "https://www.apple.com/ipad/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "ipad",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 31,
+    "sourceUrl": "https://www.apple.com/apple-pencil/",
+    "localRoute": "/apple-pencil",
+    "pageTitle": "Apple Pencil",
+    "category": "iPad",
+    "parentRoute": "https://www.apple.com/ipad/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "ipad",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 32,
+    "sourceUrl": "https://www.apple.com/iphone-duo/",
+    "localRoute": "/iphone-duo",
+    "pageTitle": "iPhone Duo",
+    "category": "iPhone",
+    "parentRoute": "https://www.apple.com/iphone/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "iphone",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 33,
+    "sourceUrl": "https://www.apple.com/iphone-18-pro/",
+    "localRoute": "/iphone-18-pro",
+    "pageTitle": "iPhone 18 Pro",
+    "category": "iPhone",
+    "parentRoute": "https://www.apple.com/iphone/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "iphone",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 34,
+    "sourceUrl": "https://www.apple.com/iphone-air/",
+    "localRoute": "/iphone-air",
+    "pageTitle": "iPhone Air",
+    "category": "iPhone",
+    "parentRoute": "https://www.apple.com/iphone/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "iphone",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 35,
+    "sourceUrl": "https://www.apple.com/iphone-17/",
+    "localRoute": "/iphone-17",
+    "pageTitle": "iPhone 17",
+    "category": "iPhone",
+    "parentRoute": "https://www.apple.com/iphone/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "iphone",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 36,
+    "sourceUrl": "https://www.apple.com/iphone-17e/",
+    "localRoute": "/iphone-17e",
+    "pageTitle": "iPhone 17e",
+    "category": "iPhone",
+    "parentRoute": "https://www.apple.com/iphone/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "iphone",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 37,
+    "sourceUrl": "https://www.apple.com/iphone/compare/",
+    "localRoute": "/iphone/compare",
+    "pageTitle": "Compare iPhone models",
+    "category": "iPhone",
+    "parentRoute": "https://www.apple.com/iphone/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "iphone",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 38,
+    "sourceUrl": "https://www.apple.com/iphone/switch/",
+    "localRoute": "/iphone/switch",
+    "pageTitle": "iPhone / Android switch guide",
+    "category": "iPhone",
+    "parentRoute": "https://www.apple.com/iphone/",
+    "discoveryMethod": "Sitemap-linked route; not separately fetched",
+    "status": "INSPECTED",
+    "template": "iphone",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 39,
+    "sourceUrl": "https://www.apple.com/apple-watch-series-12/",
+    "localRoute": "/apple-watch-series-12",
+    "pageTitle": "Apple Watch Series 12",
+    "category": "Apple Watch",
+    "parentRoute": "https://www.apple.com/watch/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "apple-watch",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 40,
+    "sourceUrl": "https://www.apple.com/apple-watch-ultra-4/",
+    "localRoute": "/apple-watch-ultra-4",
+    "pageTitle": "Apple Watch Ultra 4",
+    "category": "Apple Watch",
+    "parentRoute": "https://www.apple.com/watch/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "apple-watch",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 41,
+    "sourceUrl": "https://www.apple.com/apple-watch-se-3/",
+    "localRoute": "/apple-watch-se-3",
+    "pageTitle": "Apple Watch SE 3",
+    "category": "Apple Watch",
+    "parentRoute": "https://www.apple.com/watch/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "apple-watch",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 42,
+    "sourceUrl": "https://www.apple.com/watch/compare/",
+    "localRoute": "/watch/compare",
+    "pageTitle": "Compare Apple Watch models",
+    "category": "Apple Watch",
+    "parentRoute": "https://www.apple.com/watch/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "apple-watch",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 43,
+    "sourceUrl": "https://www.apple.com/os/watchos/",
+    "localRoute": "/os/watchos",
+    "pageTitle": "watchOS",
+    "category": "Apple Watch",
+    "parentRoute": "https://www.apple.com/watch/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "apple-watch",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 44,
+    "sourceUrl": "https://www.apple.com/watch/close-your-rings/",
+    "localRoute": "/watch/close-your-rings",
+    "pageTitle": "Close Your Rings",
+    "category": "Apple Watch",
+    "parentRoute": "https://www.apple.com/watch/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "apple-watch",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 45,
+    "sourceUrl": "https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro",
+    "localRoute": "/retail/instore-shopping-session/session-selection/?topic=visionpro",
+    "pageTitle": "Vision Pro demo / shopping session",
+    "category": "Vision",
+    "parentRoute": "https://www.apple.com/apple-vision-pro/",
+    "discoveryMethod": "Opened via sitemap; topic-specific URL",
+    "status": "INSPECTED",
+    "template": "vision",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 46,
+    "sourceUrl": "https://www.apple.com/os/visionos/",
+    "localRoute": "/os/visionos",
+    "pageTitle": "visionOS",
+    "category": "Vision",
+    "parentRoute": "https://www.apple.com/apple-vision-pro/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "vision",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 47,
+    "sourceUrl": "https://www.apple.com/augmented-reality/",
+    "localRoute": "/augmented-reality",
+    "pageTitle": "Legacy augmented reality route",
+    "category": "Vision",
+    "parentRoute": "https://www.apple.com/apple-vision-pro/",
+    "discoveryMethod": "Opened; redirects to /apple-vision-pro/",
+    "status": "INSPECTED",
+    "template": "vision",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 48,
+    "sourceUrl": "https://www.apple.com/airpods-5/",
+    "localRoute": "/airpods-5",
+    "pageTitle": "AirPods 5",
+    "category": "Audio & accessories",
+    "parentRoute": "https://www.apple.com/airpods/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "audio-accessories",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 49,
+    "sourceUrl": "https://www.apple.com/airpods-pro/",
+    "localRoute": "/airpods-pro",
+    "pageTitle": "AirPods Pro",
+    "category": "Audio & accessories",
+    "parentRoute": "https://www.apple.com/airpods/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "audio-accessories",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 50,
+    "sourceUrl": "https://www.apple.com/airpods-max/",
+    "localRoute": "/airpods-max",
+    "pageTitle": "AirPods Max",
+    "category": "Audio & accessories",
+    "parentRoute": "https://www.apple.com/airpods/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "audio-accessories",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 51,
+    "sourceUrl": "https://www.apple.com/airpods/compare/",
+    "localRoute": "/airpods/compare",
+    "pageTitle": "Compare AirPods",
+    "category": "Audio & accessories",
+    "parentRoute": "https://www.apple.com/airpods/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "audio-accessories",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 52,
+    "sourceUrl": "https://www.apple.com/airtag/",
+    "localRoute": "/airtag",
+    "pageTitle": "AirTag",
+    "category": "Audio & accessories",
+    "parentRoute": "https://www.apple.com/airpods/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "audio-accessories",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 53,
+    "sourceUrl": "https://www.apple.com/apple-homeview/",
+    "localRoute": "/apple-homeview",
+    "pageTitle": "Apple HomeView",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 54,
+    "sourceUrl": "https://www.apple.com/apple-tv-4k/",
+    "localRoute": "/apple-tv-4k",
+    "pageTitle": "Apple TV 4K",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 55,
+    "sourceUrl": "https://www.apple.com/apple-tv-app/",
+    "localRoute": "/apple-tv-app",
+    "pageTitle": "Apple TV app",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 56,
+    "sourceUrl": "https://www.apple.com/apple-tv/",
+    "localRoute": "/apple-tv",
+    "pageTitle": "Apple TV service",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 57,
+    "sourceUrl": "https://www.apple.com/homepod-2nd-generation/",
+    "localRoute": "/homepod-2nd-generation",
+    "pageTitle": "HomePod (2nd generation)",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 58,
+    "sourceUrl": "https://www.apple.com/homepod-mini/",
+    "localRoute": "/homepod-mini",
+    "pageTitle": "HomePod mini",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 59,
+    "sourceUrl": "https://www.apple.com/home-app/",
+    "localRoute": "/home-app",
+    "pageTitle": "Home app",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 60,
+    "sourceUrl": "https://www.apple.com/airplay/",
+    "localRoute": "/airplay",
+    "pageTitle": "AirPlay",
+    "category": "TV & Home",
+    "parentRoute": "https://www.apple.com/home/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "tv-home",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 61,
+    "sourceUrl": "https://www.apple.com/apple-music/",
+    "localRoute": "/apple-music",
+    "pageTitle": "Apple Music",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 62,
+    "sourceUrl": "https://www.apple.com/apple-fitness-plus/",
+    "localRoute": "/apple-fitness-plus",
+    "pageTitle": "Apple Fitness+",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 63,
+    "sourceUrl": "https://www.apple.com/apple-one/",
+    "localRoute": "/apple-one",
+    "pageTitle": "Apple One",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 64,
+    "sourceUrl": "https://www.apple.com/apple-news/",
+    "localRoute": "/apple-news",
+    "pageTitle": "Apple News+",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 65,
+    "sourceUrl": "https://www.apple.com/apple-podcasts/",
+    "localRoute": "/apple-podcasts",
+    "pageTitle": "Apple Podcasts",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 66,
+    "sourceUrl": "https://www.apple.com/app-store/",
+    "localRoute": "/app-store",
+    "pageTitle": "App Store",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 67,
+    "sourceUrl": "https://www.apple.com/wallet/",
+    "localRoute": "/wallet",
+    "pageTitle": "Wallet",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 68,
+    "sourceUrl": "https://www.apple.com/apple-pay/",
+    "localRoute": "/apple-pay",
+    "pageTitle": "Apple Pay",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 69,
+    "sourceUrl": "https://www.apple.com/icloud/",
+    "localRoute": "/icloud",
+    "pageTitle": "iCloud",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 70,
+    "sourceUrl": "https://www.apple.com/apps/",
+    "localRoute": "/apps",
+    "pageTitle": "Apps by Apple",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 71,
+    "sourceUrl": "https://www.apple.com/final-cut-pro/",
+    "localRoute": "/final-cut-pro",
+    "pageTitle": "Final Cut Pro",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 72,
+    "sourceUrl": "https://www.apple.com/logic-pro/",
+    "localRoute": "/logic-pro",
+    "pageTitle": "Logic Pro",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 73,
+    "sourceUrl": "https://www.apple.com/apple-books/",
+    "localRoute": "/apple-books",
+    "pageTitle": "Apple Books",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 74,
+    "sourceUrl": "https://www.apple.com/apple-intelligence/",
+    "localRoute": "/apple-intelligence",
+    "pageTitle": "Apple Intelligence and Siri",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 75,
+    "sourceUrl": "https://www.apple.com/apple-arcade/",
+    "localRoute": "/apple-arcade",
+    "pageTitle": "Apple Arcade",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 76,
+    "sourceUrl": "https://www.apple.com/maps/",
+    "localRoute": "/maps",
+    "pageTitle": "Maps",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 77,
+    "sourceUrl": "https://www.apple.com/health/",
+    "localRoute": "/health",
+    "pageTitle": "Apple Health",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 78,
+    "sourceUrl": "https://www.apple.com/apple-card/",
+    "localRoute": "/apple-card",
+    "pageTitle": "Apple Card",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 79,
+    "sourceUrl": "https://www.apple.com/ios/carplay/",
+    "localRoute": "/ios/carplay",
+    "pageTitle": "CarPlay",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 80,
+    "sourceUrl": "https://www.apple.com/product-red/",
+    "localRoute": "/product-red",
+    "pageTitle": "(PRODUCT)RED",
+    "category": "Services & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "services-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 81,
+    "sourceUrl": "https://www.apple.com/shop/trade-in",
+    "localRoute": "/shop/trade-in",
+    "pageTitle": "Trade In",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 82,
+    "sourceUrl": "https://www.apple.com/shop/apple-upgrade",
+    "localRoute": "/shop/apple-upgrade",
+    "pageTitle": "Apple Upgrade",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 83,
+    "sourceUrl": "https://www.apple.com/shop/browse/financing",
+    "localRoute": "/shop/browse/financing",
+    "pageTitle": "Financing",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 84,
+    "sourceUrl": "https://www.apple.com/shop/help",
+    "localRoute": "/shop/help",
+    "pageTitle": "Shopping Help",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 85,
+    "sourceUrl": "https://www.apple.com/shop/refurbished",
+    "localRoute": "/shop/refurbished",
+    "pageTitle": "Certified Refurbished",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 86,
+    "sourceUrl": "https://www.apple.com/shop/accessories/all/accessibility",
+    "localRoute": "/shop/accessories/all/accessibility",
+    "pageTitle": "Accessibility accessories",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 87,
+    "sourceUrl": "https://www.apple.com/shop/accessories/all/cases-protection",
+    "localRoute": "/shop/accessories/all/cases-protection",
+    "pageTitle": "Cases & Protection accessories",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 88,
+    "sourceUrl": "https://www.apple.com/shop/accessories/all/content-creation",
+    "localRoute": "/shop/accessories/all/content-creation",
+    "pageTitle": "Content-creation accessories",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 89,
+    "sourceUrl": "https://www.apple.com/shop/accessories/all/new-arrivals",
+    "localRoute": "/shop/accessories/all/new-arrivals",
+    "pageTitle": "New accessory arrivals",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 90,
+    "sourceUrl": "https://www.apple.com/education/k12/",
+    "localRoute": "/education/k12",
+    "pageTitle": "K–12 education",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened; legacy route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 91,
+    "sourceUrl": "https://www.apple.com/retail/",
+    "localRoute": "/retail",
+    "pageTitle": "Find an Apple Store",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 92,
+    "sourceUrl": "https://www.apple.com/retail/geniusbar/",
+    "localRoute": "/retail/geniusbar",
+    "pageTitle": "Genius Bar",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 93,
+    "sourceUrl": "https://www.apple.com/today/",
+    "localRoute": "/today",
+    "pageTitle": "Today at Apple",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 94,
+    "sourceUrl": "https://www.apple.com/today/calendar/",
+    "localRoute": "/today/calendar",
+    "pageTitle": "Today at Apple calendar",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/store",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 95,
+    "sourceUrl": "https://support.apple.com/mac",
+    "localRoute": "https://support.apple.com/mac",
+    "pageTitle": "Mac Support",
+    "category": "Support",
+    "parentRoute": "https://support.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 96,
+    "sourceUrl": "https://support.apple.com/en-us/docs/mac",
+    "localRoute": "https://support.apple.com/en-us/docs/mac",
+    "pageTitle": "Mac manuals",
+    "category": "Support",
+    "parentRoute": "https://support.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 97,
+    "sourceUrl": "https://support.apple.com/apple-tv",
+    "localRoute": "https://support.apple.com/apple-tv",
+    "pageTitle": "Apple TV Support",
+    "category": "Support",
+    "parentRoute": "https://support.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 98,
+    "sourceUrl": "https://support.apple.com/homepod",
+    "localRoute": "https://support.apple.com/homepod",
+    "pageTitle": "HomePod Support",
+    "category": "Support",
+    "parentRoute": "https://support.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 99,
+    "sourceUrl": "https://support.apple.com/apple-card",
+    "localRoute": "https://support.apple.com/apple-card",
+    "pageTitle": "Apple Card Support",
+    "category": "Support",
+    "parentRoute": "https://support.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 100,
+    "sourceUrl": "https://support.apple.com/apple-pay",
+    "localRoute": "https://support.apple.com/apple-pay",
+    "pageTitle": "Apple Pay Support",
+    "category": "Support",
+    "parentRoute": "https://support.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 101,
+    "sourceUrl": "https://support.apple.com/billing",
+    "localRoute": "https://support.apple.com/billing",
+    "pageTitle": "Billing & subscriptions",
+    "category": "Support",
+    "parentRoute": "https://support.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "support",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 102,
+    "sourceUrl": "https://www.apple.com/leadership/",
+    "localRoute": "/leadership",
+    "pageTitle": "Leadership",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 103,
+    "sourceUrl": "https://www.apple.com/careers/us/",
+    "localRoute": "/careers/us",
+    "pageTitle": "Careers",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 104,
+    "sourceUrl": "https://www.apple.com/contact/",
+    "localRoute": "/contact",
+    "pageTitle": "Contact Apple",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 105,
+    "sourceUrl": "https://www.apple.com/legal/",
+    "localRoute": "/legal",
+    "pageTitle": "Legal",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 106,
+    "sourceUrl": "https://www.apple.com/compliance/",
+    "localRoute": "/compliance",
+    "pageTitle": "Ethics & Compliance",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 107,
+    "sourceUrl": "https://www.apple.com/choose-country-region/",
+    "localRoute": "/choose-country-region",
+    "pageTitle": "Choose country or region",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 108,
+    "sourceUrl": "https://www.apple.com/environment/",
+    "localRoute": "/environment",
+    "pageTitle": "Environment",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 109,
+    "sourceUrl": "https://www.apple.com/supply-chain/",
+    "localRoute": "/supply-chain",
+    "pageTitle": "Supply Chain Innovation",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 110,
+    "sourceUrl": "https://www.apple.com/accessibility/",
+    "localRoute": "/accessibility",
+    "pageTitle": "Accessibility",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 111,
+    "sourceUrl": "https://www.apple.com/privacy/",
+    "localRoute": "/privacy",
+    "pageTitle": "Privacy",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 112,
+    "sourceUrl": "https://www.apple.com/newsroom/",
+    "localRoute": "/newsroom",
+    "pageTitle": "Newsroom",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 113,
+    "sourceUrl": "https://www.apple.com/apple-events/",
+    "localRoute": "/apple-events",
+    "pageTitle": "Apple Events",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 114,
+    "sourceUrl": "https://www.apple.com/business/",
+    "localRoute": "/business",
+    "pageTitle": "Business / Apple at Work",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 115,
+    "sourceUrl": "https://investor.apple.com/investor-relations/default.aspx",
+    "localRoute": "https://investor.apple.com/investor-relations/default.aspx",
+    "pageTitle": "Investor Relations",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened; redirected to investor.apple.com/investor-relations/default.aspx",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 116,
+    "sourceUrl": "https://locate.apple.com/",
+    "localRoute": "https://locate.apple.com/",
+    "pageTitle": "Apple Store location finder",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 117,
+    "sourceUrl": "https://www.apple.com/tv-pr/",
+    "localRoute": "/tv-pr",
+    "pageTitle": "Apple TV Press",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 118,
+    "sourceUrl": "https://www.apple.com/os/ios/",
+    "localRoute": "/os/ios",
+    "pageTitle": "iOS",
+    "category": "Platforms & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "platforms-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 119,
+    "sourceUrl": "https://www.apple.com/os/ipados/",
+    "localRoute": "/os/ipados",
+    "pageTitle": "iPadOS",
+    "category": "Platforms & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "platforms-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 120,
+    "sourceUrl": "https://www.apple.com/pixelmator-pro/",
+    "localRoute": "/pixelmator-pro",
+    "pageTitle": "Pixelmator Pro",
+    "category": "Creative apps",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "creative-apps",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 121,
+    "sourceUrl": "https://www.apple.com/safari/",
+    "localRoute": "/safari",
+    "pageTitle": "Safari",
+    "category": "Platforms & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "platforms-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 122,
+    "sourceUrl": "https://www.apple.com/apple-creator-studio/",
+    "localRoute": "/apple-creator-studio",
+    "pageTitle": "Apple Creator Studio",
+    "category": "Creative apps",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "creative-apps",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 123,
+    "sourceUrl": "https://www.apple.com/itunes/",
+    "localRoute": "/itunes",
+    "pageTitle": "iTunes",
+    "category": "Platforms & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "platforms-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 124,
+    "sourceUrl": "https://www.apple.com/working-with-apple-services/",
+    "localRoute": "/working-with-apple-services",
+    "pageTitle": "Working with Apple Services",
+    "category": "Platforms & software",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "platforms-software",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 125,
+    "sourceUrl": "https://www.apple.com/watch/battery/",
+    "localRoute": "/watch/battery",
+    "pageTitle": "Watch battery information",
+    "category": "Apple Watch",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "apple-watch",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 126,
+    "sourceUrl": "https://www.apple.com/shop/engraving",
+    "localRoute": "/shop/engraving",
+    "pageTitle": "Apple engraving",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened; legacy store route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 127,
+    "sourceUrl": "https://www.apple.com/shop/mac/accessories/mice-keyboards",
+    "localRoute": "/shop/mac/accessories/mice-keyboards",
+    "pageTitle": "Mac mice and keyboards accessories",
+    "category": "Store & retail",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened; legacy store route redirected here",
+    "status": "INSPECTED",
+    "template": "store-retail",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 128,
+    "sourceUrl": "https://www.apple.com/government/",
+    "localRoute": "/government",
+    "pageTitle": "Government",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 129,
+    "sourceUrl": "https://www.apple.com/financing/",
+    "localRoute": "/financing",
+    "pageTitle": "Apple Financial Services",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 130,
+    "sourceUrl": "https://www.apple.com/promo/",
+    "localRoute": "/promo",
+    "pageTitle": "Offers and rebates",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 131,
+    "sourceUrl": "https://www.apple.com/feedback/",
+    "localRoute": "/feedback",
+    "pageTitle": "Product Feedback",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  },
+  {
+    "id": 132,
+    "sourceUrl": "https://www.apple.com/diversity/",
+    "localRoute": "/diversity",
+    "pageTitle": "Inclusion & Diversity",
+    "category": "Company & values",
+    "parentRoute": "https://www.apple.com/",
+    "discoveryMethod": "Opened via official Apple sitemap",
+    "status": "INSPECTED",
+    "template": "company-values",
+    "assetsCollected": true,
+    "viewportsChecked": [
+      "1440x900",
+      "1024x768",
+      "820x1180",
+      "390x844"
+    ]
+  }
+]

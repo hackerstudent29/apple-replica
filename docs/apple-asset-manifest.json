@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hero-iphone-duo-video",
+    "sourceUrl": "https://www.apple.com/105/media/us/homepage/2026/dfe63e15-1d50-4ed5-bffc-c121fa0b8626/anim/hero/large_2x.mp4",
+    "localPath": "/assets/apple/iphone/hero_iphone_duo_animated.mp4",
+    "associatedRoute": "/",
+    "type": "video/mp4",
+    "dimensions": "1920x1080",
+    "variant": "Star White",
+    "responsiveVariant": "large_2x",
+    "component": "HeroUnit",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "hero-iphone-duo-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated_preorder__c10i2x3qhi4i_large_2x.jpg",
+    "localPath": "/assets/apple/iphone/hero_iphone_duo_animated.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "3008x1256",
+    "variant": "Star White",
+    "responsiveVariant": "large_2x",
+    "component": "HeroUnit",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "hero-iphone-18-pro-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/iphone-18-pro/a/hero_iphone_18_pro__fqe1motd0ymy_large_2x.jpg",
+    "localPath": "/assets/apple/iphone/hero_iphone_18_pro.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "3008x1256",
+    "variant": "Burgundy",
+    "responsiveVariant": "large_2x",
+    "component": "HeroUnit",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "hero-apple-card-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/apple-card/a/hero_apple_card__dpuxs0gw5daq_large_2x.jpg",
+    "localPath": "/assets/apple/services/hero_apple_card.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "3008x1256",
+    "variant": "Titanium White",
+    "responsiveVariant": "large_2x",
+    "component": "HeroUnit",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "promo-apple-upgrade-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_large_2x.jpg",
+    "localPath": "/assets/apple/store/promo_apple_upgrade.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "1262x980",
+    "variant": "Spectrum",
+    "responsiveVariant": "large_2x",
+    "component": "PromoGrid",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "promo-apple-homeview-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/apple-homeview/a/promo_apple_homeview_animated_preorder__ekx0z2j7deeu_large_2x.jpg",
+    "localPath": "/assets/apple/home/promo_apple_homeview.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "1262x980",
+    "variant": "Multi-color",
+    "responsiveVariant": "large_2x",
+    "component": "PromoGrid",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "promo-apple-watch-12-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/apple-watch-series-12/a/promo_apple_watch_series_12__gnlprtt8526a_large_2x.jpg",
+    "localPath": "/assets/apple/watch/promo_apple_watch_series_12.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "1262x980",
+    "variant": "Dark Bronze Aluminum",
+    "responsiveVariant": "large_2x",
+    "component": "PromoGrid",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "promo-apple-watch-ultra-4-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/apple-watch-ultra-4/a/promo_apple_watch_ultra_4__e4r3qertak2u_large_2x.jpg",
+    "localPath": "/assets/apple/watch/promo_apple_watch_ultra_4.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "1262x980",
+    "variant": "Natural Titanium",
+    "responsiveVariant": "large_2x",
+    "component": "PromoGrid",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "promo-ipad-air-m4-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/ipad-air-m4/a/promo_ipad_air_m4__bgcv7t286k8y_large_2x.jpg",
+    "localPath": "/assets/apple/ipad/promo_ipad_air_m4.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "1262x980",
+    "variant": "Blue & Space Gray",
+    "responsiveVariant": "large_2x",
+    "component": "PromoGrid",
+    "retrievalStatus": "AVAILABLE"
+  },
+  {
+    "id": "promo-carriers-img",
+    "sourceUrl": "https://www.apple.com/v/homepage/images/carriers/a/promo_carriers__bkbchi56n5qq_large_2x.jpg",
+    "localPath": "/assets/apple/iphone/promo_carriers.jpg",
+    "associatedRoute": "/",
+    "type": "image/jpeg",
+    "dimensions": "1262x980",
+    "variant": "Lineup",
+    "responsiveVariant": "large_2x",
+    "component": "PromoGrid",
+    "retrievalStatus": "AVAILABLE"
+  }
+]

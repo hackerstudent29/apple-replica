@@ -1,0 +1,69 @@
+{
+  "route": "/",
+  "title": "Apple (United States)",
+  "viewports": {
+    "desktop_large": {
+      "width": 1440,
+      "height": 900,
+      "globalNav": {
+        "height": 44,
+        "bg": "rgba(22, 22, 23, 0.8)",
+        "backdropBlur": "20px",
+        "textColor": "#d6d6d6",
+        "fontSize": "12px",
+        "fontFamily": "SF Pro Text, -apple-system, sans-serif"
+      },
+      "heroSection": {
+        "height": "692px",
+        "marginBottom": "12px",
+        "headline": {
+          "fontSize": "56px",
+          "lineHeight": "1.07143",
+          "fontWeight": 600,
+          "letterSpacing": "-0.005em"
+        },
+        "subhead": {
+          "fontSize": "28px",
+          "lineHeight": "1.10722",
+          "fontWeight": 400,
+          "letterSpacing": "0.004em"
+        },
+        "button": {
+          "height": "40px",
+          "padding": "0 16px",
+          "borderRadius": "980px",
+          "fontSize": "14px",
+          "primaryBg": "#0071e3",
+          "primaryText": "#ffffff"
+        }
+      },
+      "promoGrid": {
+        "columns": 2,
+        "gap": "12px",
+        "cardHeight": "580px",
+        "cardBorderRadius": "0px"
+      }
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "globalNav": {
+        "height": 48
+      },
+      "heroSection": {
+        "height": "500px",
+        "headline": {
+          "fontSize": "32px"
+        },
+        "subhead": {
+          "fontSize": "19px"
+        }
+      },
+      "promoGrid": {
+        "columns": 1,
+        "gap": "12px",
+        "cardHeight": "500px"
+      }
+    }
+  }
+}

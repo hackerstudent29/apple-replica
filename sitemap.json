@@ -1,0 +1,1063 @@
+{
+  "site": "https://www.apple.com/",
+  "crawl_scope": "Important first- and second-level pages discovered from and opened through the official Apple sitemap. Not an exhaustive crawl of every localized page, query variant, product configuration, or news article.",
+  "total_unique_routes": 132,
+  "routes": [
+    {
+      "section": "Core",
+      "page_name": "Homepage",
+      "url": "https://www.apple.com/",
+      "crawl_result": "Opened in initial pass",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/"
+    },
+    {
+      "section": "Core",
+      "page_name": "Site map",
+      "url": "https://www.apple.com/sitemap/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/sitemap/"
+    },
+    {
+      "section": "Core",
+      "page_name": "Robots.txt / sitemap declarations",
+      "url": "https://www.apple.com/robots.txt",
+      "crawl_result": "Opened; exposes official XML sitemap locations",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/robots.txt"
+    },
+    {
+      "section": "Core",
+      "page_name": "Store",
+      "url": "https://www.apple.com/store",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/store"
+    },
+    {
+      "section": "Core",
+      "page_name": "Mac",
+      "url": "https://www.apple.com/mac/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/mac/"
+    },
+    {
+      "section": "Core",
+      "page_name": "iPad",
+      "url": "https://www.apple.com/ipad/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/ipad/"
+    },
+    {
+      "section": "Core",
+      "page_name": "iPhone",
+      "url": "https://www.apple.com/iphone/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/iphone/"
+    },
+    {
+      "section": "Core",
+      "page_name": "Apple Watch",
+      "url": "https://www.apple.com/watch/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/watch/"
+    },
+    {
+      "section": "Core",
+      "page_name": "Apple Vision Pro",
+      "url": "https://www.apple.com/apple-vision-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-vision-pro/"
+    },
+    {
+      "section": "Core",
+      "page_name": "AirPods",
+      "url": "https://www.apple.com/airpods/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/airpods/"
+    },
+    {
+      "section": "Core",
+      "page_name": "Home / TV & Home",
+      "url": "https://www.apple.com/home/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/home/"
+    },
+    {
+      "section": "Core",
+      "page_name": "Entertainment / Services",
+      "url": "https://www.apple.com/services/",
+      "crawl_result": "Opened; /entertainment/ redirected to this route",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/services/"
+    },
+    {
+      "section": "Core",
+      "page_name": "Accessories",
+      "url": "https://www.apple.com/shop/accessories/all",
+      "crawl_result": "Opened; legacy store route redirected here",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/shop/accessories/all"
+    },
+    {
+      "section": "Support",
+      "page_name": "Apple Support homepage",
+      "url": "https://support.apple.com/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "https://support.apple.com/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "MacBook Neo",
+      "url": "https://www.apple.com/macbook-neo/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/macbook-neo/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "MacBook Air",
+      "url": "https://www.apple.com/macbook-air/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/macbook-air/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "MacBook Pro",
+      "url": "https://www.apple.com/macbook-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/macbook-pro/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "iMac",
+      "url": "https://www.apple.com/imac/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/imac/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "Mac mini",
+      "url": "https://www.apple.com/mac-mini/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/mac-mini/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "Mac Studio",
+      "url": "https://www.apple.com/mac-studio/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/mac-studio/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "Compare Mac models",
+      "url": "https://www.apple.com/mac/compare/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/mac/compare/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "Mac accessories",
+      "url": "https://www.apple.com/shop/mac/accessories",
+      "crawl_result": "Opened; legacy store route redirected here",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/shop/mac/accessories"
+    },
+    {
+      "section": "Mac",
+      "page_name": "macOS",
+      "url": "https://www.apple.com/os/macos/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/os/macos/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "Mac continuity",
+      "url": "https://www.apple.com/macos/continuity/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/macos/continuity/"
+    },
+    {
+      "section": "Mac",
+      "page_name": "Switch from PC to Mac",
+      "url": "https://www.apple.com/mac/switch/",
+      "crawl_result": "Sitemap-linked route; not separately fetched",
+      "parent_route": "https://www.apple.com/mac/",
+      "path_or_url": "/mac/switch/"
+    },
+    {
+      "section": "iPad",
+      "page_name": "iPad Pro",
+      "url": "https://www.apple.com/ipad-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/ipad/",
+      "path_or_url": "/ipad-pro/"
+    },
+    {
+      "section": "iPad",
+      "page_name": "iPad Air",
+      "url": "https://www.apple.com/ipad-air/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/ipad/",
+      "path_or_url": "/ipad-air/"
+    },
+    {
+      "section": "iPad",
+      "page_name": "iPad (11-inch/A16)",
+      "url": "https://www.apple.com/ipad-11/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/ipad/",
+      "path_or_url": "/ipad-11/"
+    },
+    {
+      "section": "iPad",
+      "page_name": "iPad mini",
+      "url": "https://www.apple.com/ipad-mini/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/ipad/",
+      "path_or_url": "/ipad-mini/"
+    },
+    {
+      "section": "iPad",
+      "page_name": "Compare iPad models",
+      "url": "https://www.apple.com/ipad/compare/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/ipad/",
+      "path_or_url": "/ipad/compare/"
+    },
+    {
+      "section": "iPad",
+      "page_name": "Apple Pencil",
+      "url": "https://www.apple.com/apple-pencil/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/ipad/",
+      "path_or_url": "/apple-pencil/"
+    },
+    {
+      "section": "iPhone",
+      "page_name": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/iphone/",
+      "path_or_url": "/iphone-duo/"
+    },
+    {
+      "section": "iPhone",
+      "page_name": "iPhone 18 Pro",
+      "url": "https://www.apple.com/iphone-18-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/iphone/",
+      "path_or_url": "/iphone-18-pro/"
+    },
+    {
+      "section": "iPhone",
+      "page_name": "iPhone Air",
+      "url": "https://www.apple.com/iphone-air/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/iphone/",
+      "path_or_url": "/iphone-air/"
+    },
+    {
+      "section": "iPhone",
+      "page_name": "iPhone 17",
+      "url": "https://www.apple.com/iphone-17/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/iphone/",
+      "path_or_url": "/iphone-17/"
+    },
+    {
+      "section": "iPhone",
+      "page_name": "iPhone 17e",
+      "url": "https://www.apple.com/iphone-17e/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/iphone/",
+      "path_or_url": "/iphone-17e/"
+    },
+    {
+      "section": "iPhone",
+      "page_name": "Compare iPhone models",
+      "url": "https://www.apple.com/iphone/compare/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/iphone/",
+      "path_or_url": "/iphone/compare/"
+    },
+    {
+      "section": "iPhone",
+      "page_name": "iPhone / Android switch guide",
+      "url": "https://www.apple.com/iphone/switch/",
+      "crawl_result": "Sitemap-linked route; not separately fetched",
+      "parent_route": "https://www.apple.com/iphone/",
+      "path_or_url": "/iphone/switch/"
+    },
+    {
+      "section": "Apple Watch",
+      "page_name": "Apple Watch Series 12",
+      "url": "https://www.apple.com/apple-watch-series-12/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/watch/",
+      "path_or_url": "/apple-watch-series-12/"
+    },
+    {
+      "section": "Apple Watch",
+      "page_name": "Apple Watch Ultra 4",
+      "url": "https://www.apple.com/apple-watch-ultra-4/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/watch/",
+      "path_or_url": "/apple-watch-ultra-4/"
+    },
+    {
+      "section": "Apple Watch",
+      "page_name": "Apple Watch SE 3",
+      "url": "https://www.apple.com/apple-watch-se-3/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/watch/",
+      "path_or_url": "/apple-watch-se-3/"
+    },
+    {
+      "section": "Apple Watch",
+      "page_name": "Compare Apple Watch models",
+      "url": "https://www.apple.com/watch/compare/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/watch/",
+      "path_or_url": "/watch/compare/"
+    },
+    {
+      "section": "Apple Watch",
+      "page_name": "watchOS",
+      "url": "https://www.apple.com/os/watchos/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/watch/",
+      "path_or_url": "/os/watchos/"
+    },
+    {
+      "section": "Apple Watch",
+      "page_name": "Close Your Rings",
+      "url": "https://www.apple.com/watch/close-your-rings/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/watch/",
+      "path_or_url": "/watch/close-your-rings/"
+    },
+    {
+      "section": "Vision",
+      "page_name": "Vision Pro demo / shopping session",
+      "url": "https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro",
+      "crawl_result": "Opened via sitemap; topic-specific URL",
+      "parent_route": "https://www.apple.com/apple-vision-pro/",
+      "path_or_url": "/retail/instore-shopping-session/session-selection/?topic=visionpro"
+    },
+    {
+      "section": "Vision",
+      "page_name": "visionOS",
+      "url": "https://www.apple.com/os/visionos/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/apple-vision-pro/",
+      "path_or_url": "/os/visionos/"
+    },
+    {
+      "section": "Vision",
+      "page_name": "Legacy augmented reality route",
+      "url": "https://www.apple.com/augmented-reality/",
+      "crawl_result": "Opened; redirects to /apple-vision-pro/",
+      "parent_route": "https://www.apple.com/apple-vision-pro/",
+      "path_or_url": "/augmented-reality/"
+    },
+    {
+      "section": "Audio & accessories",
+      "page_name": "AirPods 5",
+      "url": "https://www.apple.com/airpods-5/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/airpods/",
+      "path_or_url": "/airpods-5/"
+    },
+    {
+      "section": "Audio & accessories",
+      "page_name": "AirPods Pro",
+      "url": "https://www.apple.com/airpods-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/airpods/",
+      "path_or_url": "/airpods-pro/"
+    },
+    {
+      "section": "Audio & accessories",
+      "page_name": "AirPods Max",
+      "url": "https://www.apple.com/airpods-max/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/airpods/",
+      "path_or_url": "/airpods-max/"
+    },
+    {
+      "section": "Audio & accessories",
+      "page_name": "Compare AirPods",
+      "url": "https://www.apple.com/airpods/compare/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/airpods/",
+      "path_or_url": "/airpods/compare/"
+    },
+    {
+      "section": "Audio & accessories",
+      "page_name": "AirTag",
+      "url": "https://www.apple.com/airtag/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/airpods/",
+      "path_or_url": "/airtag/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/apple-homeview/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "Apple TV 4K",
+      "url": "https://www.apple.com/apple-tv-4k/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/apple-tv-4k/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "Apple TV app",
+      "url": "https://www.apple.com/apple-tv-app/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/apple-tv-app/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "Apple TV service",
+      "url": "https://www.apple.com/apple-tv/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/apple-tv/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "HomePod (2nd generation)",
+      "url": "https://www.apple.com/homepod-2nd-generation/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/homepod-2nd-generation/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "HomePod mini",
+      "url": "https://www.apple.com/homepod-mini/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/homepod-mini/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "Home app",
+      "url": "https://www.apple.com/home-app/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/home-app/"
+    },
+    {
+      "section": "TV & Home",
+      "page_name": "AirPlay",
+      "url": "https://www.apple.com/airplay/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/home/",
+      "path_or_url": "/airplay/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Music",
+      "url": "https://www.apple.com/apple-music/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-music/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Fitness+",
+      "url": "https://www.apple.com/apple-fitness-plus/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-fitness-plus/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple One",
+      "url": "https://www.apple.com/apple-one/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-one/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple News+",
+      "url": "https://www.apple.com/apple-news/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-news/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-podcasts/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "App Store",
+      "url": "https://www.apple.com/app-store/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/app-store/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Wallet",
+      "url": "https://www.apple.com/wallet/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/wallet/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Pay",
+      "url": "https://www.apple.com/apple-pay/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-pay/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "iCloud",
+      "url": "https://www.apple.com/icloud/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/icloud/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apps by Apple",
+      "url": "https://www.apple.com/apps/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apps/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Final Cut Pro",
+      "url": "https://www.apple.com/final-cut-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/final-cut-pro/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Logic Pro",
+      "url": "https://www.apple.com/logic-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/logic-pro/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Books",
+      "url": "https://www.apple.com/apple-books/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-books/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Intelligence and Siri",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-intelligence/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Arcade",
+      "url": "https://www.apple.com/apple-arcade/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-arcade/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Maps",
+      "url": "https://www.apple.com/maps/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/maps/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Health",
+      "url": "https://www.apple.com/health/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/health/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "Apple Card",
+      "url": "https://www.apple.com/apple-card/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-card/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "CarPlay",
+      "url": "https://www.apple.com/ios/carplay/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/ios/carplay/"
+    },
+    {
+      "section": "Services & software",
+      "page_name": "(PRODUCT)RED",
+      "url": "https://www.apple.com/product-red/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/product-red/"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Trade In",
+      "url": "https://www.apple.com/shop/trade-in",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/trade-in"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Apple Upgrade",
+      "url": "https://www.apple.com/shop/apple-upgrade",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/apple-upgrade"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Financing",
+      "url": "https://www.apple.com/shop/browse/financing",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/browse/financing"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Shopping Help",
+      "url": "https://www.apple.com/shop/help",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/help"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Certified Refurbished",
+      "url": "https://www.apple.com/shop/refurbished",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/refurbished"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Accessibility accessories",
+      "url": "https://www.apple.com/shop/accessories/all/accessibility",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/accessories/all/accessibility"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Cases & Protection accessories",
+      "url": "https://www.apple.com/shop/accessories/all/cases-protection",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/accessories/all/cases-protection"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Content-creation accessories",
+      "url": "https://www.apple.com/shop/accessories/all/content-creation",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/accessories/all/content-creation"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "New accessory arrivals",
+      "url": "https://www.apple.com/shop/accessories/all/new-arrivals",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/shop/accessories/all/new-arrivals"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "K–12 education",
+      "url": "https://www.apple.com/education/k12/",
+      "crawl_result": "Opened; legacy route redirected here",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/education/k12/"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Find an Apple Store",
+      "url": "https://www.apple.com/retail/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/retail/"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Genius Bar",
+      "url": "https://www.apple.com/retail/geniusbar/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/retail/geniusbar/"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Today at Apple",
+      "url": "https://www.apple.com/today/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/today/"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Today at Apple calendar",
+      "url": "https://www.apple.com/today/calendar/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/store",
+      "path_or_url": "/today/calendar/"
+    },
+    {
+      "section": "Support",
+      "page_name": "Mac Support",
+      "url": "https://support.apple.com/mac",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://support.apple.com/",
+      "path_or_url": "https://support.apple.com/mac"
+    },
+    {
+      "section": "Support",
+      "page_name": "Mac manuals",
+      "url": "https://support.apple.com/en-us/docs/mac",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://support.apple.com/",
+      "path_or_url": "https://support.apple.com/en-us/docs/mac"
+    },
+    {
+      "section": "Support",
+      "page_name": "Apple TV Support",
+      "url": "https://support.apple.com/apple-tv",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://support.apple.com/",
+      "path_or_url": "https://support.apple.com/apple-tv"
+    },
+    {
+      "section": "Support",
+      "page_name": "HomePod Support",
+      "url": "https://support.apple.com/homepod",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://support.apple.com/",
+      "path_or_url": "https://support.apple.com/homepod"
+    },
+    {
+      "section": "Support",
+      "page_name": "Apple Card Support",
+      "url": "https://support.apple.com/apple-card",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://support.apple.com/",
+      "path_or_url": "https://support.apple.com/apple-card"
+    },
+    {
+      "section": "Support",
+      "page_name": "Apple Pay Support",
+      "url": "https://support.apple.com/apple-pay",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://support.apple.com/",
+      "path_or_url": "https://support.apple.com/apple-pay"
+    },
+    {
+      "section": "Support",
+      "page_name": "Billing & subscriptions",
+      "url": "https://support.apple.com/billing",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://support.apple.com/",
+      "path_or_url": "https://support.apple.com/billing"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Leadership",
+      "url": "https://www.apple.com/leadership/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/leadership/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Careers",
+      "url": "https://www.apple.com/careers/us/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/careers/us/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Contact Apple",
+      "url": "https://www.apple.com/contact/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/contact/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Legal",
+      "url": "https://www.apple.com/legal/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/legal/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Ethics & Compliance",
+      "url": "https://www.apple.com/compliance/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/compliance/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Choose country or region",
+      "url": "https://www.apple.com/choose-country-region/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/choose-country-region/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Environment",
+      "url": "https://www.apple.com/environment/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/environment/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Supply Chain Innovation",
+      "url": "https://www.apple.com/supply-chain/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/supply-chain/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Accessibility",
+      "url": "https://www.apple.com/accessibility/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/accessibility/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Privacy",
+      "url": "https://www.apple.com/privacy/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/privacy/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Newsroom",
+      "url": "https://www.apple.com/newsroom/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/newsroom/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Apple Events",
+      "url": "https://www.apple.com/apple-events/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-events/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Business / Apple at Work",
+      "url": "https://www.apple.com/business/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/business/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Investor Relations",
+      "url": "https://investor.apple.com/investor-relations/default.aspx",
+      "crawl_result": "Opened; redirected to investor.apple.com/investor-relations/default.aspx",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "https://investor.apple.com/investor-relations/default.aspx"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Apple Store location finder",
+      "url": "https://locate.apple.com/",
+      "crawl_result": "Opened via official sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "https://locate.apple.com/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Apple TV Press",
+      "url": "https://www.apple.com/tv-pr/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/tv-pr/"
+    },
+    {
+      "section": "Platforms & software",
+      "page_name": "iOS",
+      "url": "https://www.apple.com/os/ios/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/os/ios/"
+    },
+    {
+      "section": "Platforms & software",
+      "page_name": "iPadOS",
+      "url": "https://www.apple.com/os/ipados/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/os/ipados/"
+    },
+    {
+      "section": "Creative apps",
+      "page_name": "Pixelmator Pro",
+      "url": "https://www.apple.com/pixelmator-pro/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/pixelmator-pro/"
+    },
+    {
+      "section": "Platforms & software",
+      "page_name": "Safari",
+      "url": "https://www.apple.com/safari/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/safari/"
+    },
+    {
+      "section": "Creative apps",
+      "page_name": "Apple Creator Studio",
+      "url": "https://www.apple.com/apple-creator-studio/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/apple-creator-studio/"
+    },
+    {
+      "section": "Platforms & software",
+      "page_name": "iTunes",
+      "url": "https://www.apple.com/itunes/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/itunes/"
+    },
+    {
+      "section": "Platforms & software",
+      "page_name": "Working with Apple Services",
+      "url": "https://www.apple.com/working-with-apple-services/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/working-with-apple-services/"
+    },
+    {
+      "section": "Apple Watch",
+      "page_name": "Watch battery information",
+      "url": "https://www.apple.com/watch/battery/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/watch/battery/"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Apple engraving",
+      "url": "https://www.apple.com/shop/engraving",
+      "crawl_result": "Opened; legacy store route redirected here",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/shop/engraving"
+    },
+    {
+      "section": "Store & retail",
+      "page_name": "Mac mice and keyboards accessories",
+      "url": "https://www.apple.com/shop/mac/accessories/mice-keyboards",
+      "crawl_result": "Opened; legacy store route redirected here",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/shop/mac/accessories/mice-keyboards"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Government",
+      "url": "https://www.apple.com/government/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/government/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Apple Financial Services",
+      "url": "https://www.apple.com/financing/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/financing/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Offers and rebates",
+      "url": "https://www.apple.com/promo/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/promo/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Product Feedback",
+      "url": "https://www.apple.com/feedback/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/feedback/"
+    },
+    {
+      "section": "Company & values",
+      "page_name": "Inclusion & Diversity",
+      "url": "https://www.apple.com/diversity/",
+      "crawl_result": "Opened via official Apple sitemap",
+      "parent_route": "https://www.apple.com/",
+      "path_or_url": "/diversity/"
+    }
+  ]
+}
